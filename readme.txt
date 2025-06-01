@@ -2,6 +2,4 @@ Hi.
 My name is Etienne.
 It's just the start.
 
-Progress
-
-new branch
+Let's say we go this way --> D.
