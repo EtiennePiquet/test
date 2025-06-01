@@ -1,7 +1,6 @@
 Hi.
-My name is Etienne.
-It's just the start.
 
-Progress
+Let's say we go this way --> E.
 
-new branch
+
+
